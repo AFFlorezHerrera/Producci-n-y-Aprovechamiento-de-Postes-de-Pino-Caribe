@@ -38,7 +38,7 @@ Identificar los árboles a cortar según su **diámetro (DAP)** y **altura prome
    - Protocolos de seguridad y trazabilidad.
 
 2. **Selección de árboles**
-   - Cortar árboles con diámetros entre **7–16 cm DAP** y alturas promedio de **20–22 m**.
+   - Cortar árboles con diámetros entre **7–16 cm DAP** y alturas promedio de **10–22 m**.
    - Priorización de lotes con mejor rendimiento (ej. PO20, PO21, PO54, PO69).
 
 3. **Proceso de producción**
